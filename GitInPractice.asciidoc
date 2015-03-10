@@ -5,3 +5,4 @@ But, the fox was able to leap over the lazy dog in a single bound!
 Chapter Two
 See the chapter two document.
 Now here's a line added using NetBeans.  We'll get to see what happens...
+The first add and commit from NetBeans worked fine.  Now we'll repeat the process and then push using the command line.
